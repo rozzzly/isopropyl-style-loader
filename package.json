@@ -36,7 +36,7 @@
     "@types/node": "^7.0.8",
     "@types/webpack": "^2.2.12",
     "loader-utils": "^1.1.0",
-    "rimraf": "^2.6.1",
+    "rimraf": "^4.3.1",
     "typescript": "^2.2.1"
   },
   "repository": {
